@@ -1,0 +1,1 @@
+document.getElementById('app').innerHTML = '<div><p>Suppose this is a nav bar</p></div><h1>Homepage</h1>';
